@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonammourya/LEETCODE/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/sonammourya/LEETCODE/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/sonammourya/LEETCODE/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/sonammourya/LEETCODE/tree/master/0179-largest-number) |
 ## Hash Table
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sonammourya/LEETCODE/tree/master/0179-largest-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sonammourya/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
