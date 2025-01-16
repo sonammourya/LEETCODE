@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sonammourya/LEETCODE/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/sonammourya/LEETCODE/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sonammourya/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sonammourya/LEETCODE/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
